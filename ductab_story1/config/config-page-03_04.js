@@ -11,13 +11,13 @@ PBS.KIDS.storybook.config.pages.push({
 		{
 			type: "Sprite",
 			x: 20,
-			y: 0,
+			y: 10,
 			url: "images/zootopia/friend.png"
 		},
 		{
 			type: "Sprite",
 			x: 80,
-			y: 50,
+			y: 55,
 			url: "images/music-note-sign.png"
 		},
 		{
@@ -48,11 +48,11 @@ PBS.KIDS.storybook.config.pages.push({
 			type: "TextArea",
 			align: "left",
 			x: 10,
-			y: 80,
+			y: 75,
 			size: 32,
 			color: "#000000",
 			width: 80,
-			text: "Hi, I am <b><color=#22aa22><size=1.2>Judy Hops</size></color></b>, a police officer in the beautiful city of <b>Zootopia</b>. Zootopia is an amazing city! Animals of all sizes and shapes live and work together happily."
+			text: "This is <b><color=#f4114d>Chief Bogo</color></b>. He is my commanidin officer. He doesn't trust me yet, but I will prove that I am the best."
 		}
 	]
 });
